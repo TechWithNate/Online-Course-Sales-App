@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546965766777",
+    "project_id": "course-sales",
+    "storage_bucket": "course-sales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546965766777:android:ffc55102b4729dd9e44aa8",
+        "android_client_info": {
+          "package_name": "com.tech.coursesales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546965766777-m9fc1ta0c6ojicd3t3dlui54g3i0h928.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.coursesales",
+            "certificate_hash": "b62c2cba3603f0053010ddcb06ffb0bec4437503"
+          }
+        },
+        {
+          "client_id": "546965766777-l7a4tk5p1gpmqc17ojac708dkd8kkj3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYOoC3Ex92vvQdISq8fVMfz_-4DmUEqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546965766777-l7a4tk5p1gpmqc17ojac708dkd8kkj3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
